@@ -121,15 +121,3 @@ table {
 #myBtn a img {
   width: 15px;
 }
-
- .sub {
-border-radius: 10px;
-    color:#fff;
-    margin-top: 10px;
-    padding: 15px;
-    background-color:rgba(246,131,87);
-    font-size: 18px;
-    border: none;
-    cursor:pointer;
-    width:10%
- }

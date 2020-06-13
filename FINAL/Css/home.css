@@ -53,9 +53,9 @@ main{
 
 .texte1{
 	position: absolute;
-	top: 120%;
+	top: 140%;
 	left: 50%;
-	transform: translate(-50%,-150px);
+	transform: translate(-50%,0%);
 	text-align: center;
 	background:#fff;
 	box-sizing: border-box;
@@ -70,9 +70,9 @@ main{
 
 .texte2{
 	position: absolute;
-	top: 160%;
+	top: 180%;
 	left: 50%;
-	transform: translate(-50%,-150px);
+	transform: translate(-50%,40%);
 	text-align: center;
 	background:#fff;
 	box-sizing: border-box;
